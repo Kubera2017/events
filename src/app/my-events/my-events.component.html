@@ -1,0 +1,9 @@
+<div *ngIf="events">
+  <app-event-list-item *ngFor="let event of events"
+  [event] = "event"
+  (AttendClick) = "onAttendEvent($event)"
+  (MaybeClick) = "onMaybeEvent($event)"
+  (DeclineClick) = "onDeclineEvent($event)"
+  >
+  </app-event-list-item>
+</div>

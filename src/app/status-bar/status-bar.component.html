@@ -1,0 +1,33 @@
+<div class="border mb-3">
+    <div *ngIf="stateService.mode === 'event'">
+        <a href="#" (click)="back()">Back</a>
+      </div>
+      
+      <div *ngIf="stateService.mode !== 'event'">
+          <div [ngSwitch]="periodService.mode">
+              <div *ngSwitchCase="'all'">
+                <b>All events</b>
+              </div>
+              <div *ngSwitchCase="'today'">
+                <b>Today's events {{periodService.period.start | date:'shortDate'}}</b>
+              </div>
+              <div *ngSwitchCase="'tomorrow'">
+                <b>Tomorrow's events {{periodService.period.start | date:'shortDate'}}</b>
+              </div>
+              <div *ngSwitchCase="'thisWeek'">
+                <b>This week's events {{periodService.period.start | date:'shortDate'}} - {{periodService.period.end | date:'shortDate'}}</b>
+              </div>
+              <div *ngSwitchCase="'nextWeek'">
+                <b>Next week's events {{periodService.period.start | date:'shortDate'}} - {{periodService.period.end | date:'shortDate'}}</b>
+              </div>
+              <div *ngSwitchCase="'thisMonth'">
+                <b>This month's events {{periodService.period.start | date:'shortDate'}} - {{periodService.period.end | date:'shortDate'}}</b>
+              </div>
+              <div *ngSwitchCase="'date'">
+                <b>Events {{periodService.period.start | date:'shortDate'}}</b>
+              </div>
+          </div>
+      </div>
+      
+</div>
+

@@ -1,0 +1,676 @@
+python3 manage.py fetchevents
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user AndreySmirnou
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:18.063997) while time zone support is active.
+  RuntimeWarning)
+Fetched event1214860601950853
+Fetched event2059084017665105
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Fetched event1606619702757799
+Event is not in the city
+Fetched event164891414308492
+Event is not in the city
+Fetched event971672819650635
+Event is not in the city
+Fetched event2163169293698213
+Fetched event150863152291328
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+Fetched event651995181815701
+Fetched event173256116779765
+Fetched event1792689611033248
+Fetched event337496106747540
+Event is not in the city
+Fetched event575975919414059
+Fetched event164886220712429
+Fetched event217203738824525
+Fetched event151060055529793
+Fetched event1767652663541215
+Fetched event971639229654356
+Fetched event136822527011506
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'C0YJpl4TEKD', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:19 PDT.'}}
+Event is not in the city
+Fetched event575975919414059
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+trying with rnevent
+getting page events for 413997108637911
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+trying with AndreySmirnou
+getting page events for 413997108637911
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+trying with ZevikAviner
+getting page events for 413997108637911
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'GxUa23CcI0H', 'message': "Unsupported get request. Object with ID '1621400517914732' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'D7V4ko/iIIb', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:23 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'HUA8vKjE/+Z', 'message': "Unsupported get request. Object with ID '1621400517914732' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'HYtRXpLYUZ/', 'message': "Unsupported get request. Object with ID '1621400517914732' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event1621400517914732
+Event is not in the city
+Fetched event150779625630302
+Fetched event2021629198079857
+Fetched event160125651376630
+Fetched event1437494039632758
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Fetched event154762208429381
+Event is not in the city
+Fetched event103003266971226
+Event is not in the city
+Event is not in the city
+Fetched event1660042727647017
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:24.647633) while time zone support is active.
+  RuntimeWarning)
+Fetched event639756552855451
+Fetched event1120097034717511
+Event is not in the city
+Event is not in the city
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:24.666506) while time zone support is active.
+  RuntimeWarning)
+Fetched event860926417350447
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:24.676096) while time zone support is active.
+  RuntimeWarning)
+Fetched event418961228277090
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:24.683774) while time zone support is active.
+  RuntimeWarning)
+Fetched event402342976609106
+Fetched event787193284663131
+Event is not in the city
+trying with ZevikAviner
+getting page events for 12554811421
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+trying with ZevikAviner
+getting page events for 106401656063896
+trying with AlexKumundzhiev
+getting page events for 106401656063896
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'GN/qgHLELRV', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:26 PDT.'}}
+Error with user
+Error in request
+trying with ider
+getting page events for 106401656063896
+trying with HansySchmittCamacho
+getting page events for 106401656063896
+trying with AlexKumundzhiev
+getting page events for 159727300723963
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'BE3fpQsfojo', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:27 PDT.'}}
+Error with user
+Error in request
+trying with ider
+getting page events for 159727300723963
+Fetched event299814393883776
+Fetched event433020570451346
+Fetched event231610910716382
+Fetched event420150548422593
+Fetched event167998310593726
+Fetched event2046655892284715
+Fetched event348422522301128
+Fetched event1724134590972338
+Fetched event168165987112428
+Fetched event1480855852021863
+Fetched event127614164591927
+Fetched event131455124226016
+Fetched event138598990125302
+Fetched event1962051554070978
+Fetched event150368802367667
+Fetched event2016370391933469
+Fetched event362415307516040
+Fetched event205720836633172
+Fetched event257735638035791
+Fetched event111186219475038
+Fetched event1578143398870530
+Fetched event216734798825266
+Fetched event274597196334589
+Fetched event228047311009348
+Fetched event264440777350406
+trying with ider
+getting page events for 1645561565697807
+Event is not in the city
+Event is not in the city
+trying with ider
+getting page events for 120998504661310
+Fetched event663087230392500
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+trying with ider
+getting page events for 106829506051649
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'CLpjwKB5JHR', 'message': "Unsupported get request. Object with ID '1679834885444509' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'A8+l/3dkQ/I', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:31 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'DPgrP145MHk', 'message': "Unsupported get request. Object with ID '1679834885444509' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'G9VAypWdayi', 'message': "Unsupported get request. Object with ID '1679834885444509' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event1679834885444509
+Fetched event113720826143150
+Fetched event210238442897179
+Fetched event173677579950696
+Fetched event891639927677283
+Fetched event345808495915892
+Fetched event370465680092906
+Fetched event1615273781859110
+Fetched event177340472991102
+Fetched event572565526442735
+Fetched event356717631475197
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'HUWbBA9KRE7', 'message': "Unsupported get request. Object with ID '160055454715148' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'HkbTn0SZ29I', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:33 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'BCK7xyhpMt9', 'message': "Unsupported get request. Object with ID '160055454715148' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'Dz6pQ/Qd3dl', 'message': "Unsupported get request. Object with ID '160055454715148' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event160055454715148
+Fetched event2019510671398723
+Fetched event557444761255649
+Fetched event129809251162360
+Fetched event312661885921481
+Fetched event148189232484875
+Fetched event164886220712429
+Fetched event139073913455611
+Fetched event180586542674311
+Fetched event530764210620507
+Fetched event419992531767431
+Fetched event500601256986613
+Fetched event384448091982761
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'FVrtfq1gZcc', 'message': "Unsupported get request. Object with ID '387774011681787' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'DBz7WMdL3AD', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:36 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'FVL4oJOBwKz', 'message': "Unsupported get request. Object with ID '387774011681787' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'Fk20/0z/Q8Y', 'message': "Unsupported get request. Object with ID '387774011681787' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event387774011681787
+trying with ider
+getting page events for 837570326315138
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:37.905115) while time zone support is active.
+  RuntimeWarning)
+Fetched event251129258579925
+Event is not in the city
+trying with ider
+getting page events for 89859403188
+Event is not in the city
+Fetched event160376808011440
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Fetched event1568122579971262
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Fetched event1961207550794923
+Event is not in the city
+Fetched event1313103635443449
+Fetched event204168576733067
+Fetched event216120072197676
+Fetched event204604206690817
+Fetched event274762779643552
+Fetched event227258697737422
+Event is not in the city
+Event is not in the city
+Fetched event226854201081975
+Fetched event376048816065399
+trying with ider
+getting page events for 375342065983101
+Fetched event154762208429381
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Fetched event346148679064195
+Fetched event1753461374925813
+Fetched event103145260144097
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Fetched event1673838869523038
+Fetched event788716434583567
+Fetched event881113588644845
+Event is not in the city
+trying with ider
+getting page events for 804213599771479
+Fetched event2038414609749058
+Event is not in the city
+Fetched event851827181655850
+trying with ider
+getting page events for 131511473686079
+Event is not in the city
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:40.772612) while time zone support is active.
+  RuntimeWarning)
+Fetched event563878340377184
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:40.781302) while time zone support is active.
+  RuntimeWarning)
+Fetched event1390598467829296
+Event is not in the city
+Fetched event607723849302153
+Event is not in the city
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:40.801301) while time zone support is active.
+  RuntimeWarning)
+Fetched event1453834148182499
+Event is not in the city
+Fetched event727783050594904
+Event is not in the city
+Fetched event648722198526938
+Event is not in the city
+Fetched event205630222963973
+Event is not in the city
+Event is not in the city
+Fetched event608760225844760
+Fetched event1414907118750360
+Event is not in the city
+Fetched event269051053252570
+trying with ider
+getting page events for 1451990991687798
+Fetched event959845860851958
+Fetched event1303012929754762
+trying with ider
+getting page events for 27426160072
+Event is not in the city
+Fetched event174481603350994
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Fetched event217391178997881
+Event is not in the city
+Fetched event2010356069252198
+Fetched event2005042369784630
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Fetched event391506421295047
+Event is not in the city
+Fetched event274680389729130
+Event is not in the city
+Fetched event833476153443610
+Fetched event368333910296766
+Event is not in the city
+Fetched event224701278072513
+Fetched event144099262966875
+Event is not in the city
+Fetched event1429913577135303
+trying with ider
+getting page events for 267676503726999
+trying with HansySchmittCamacho
+getting page events for 267676503726999
+trying with ider
+getting page events for 199594896749981
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'ETanIG9kBPg', 'message': "Unsupported get request. Object with ID '161551704476903' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'FAF14MCPsGw', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:45 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'FSq99eMQqPO', 'message': "Unsupported get request. Object with ID '161551704476903' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'H0DWiqaaUMV', 'message': "Unsupported get request. Object with ID '161551704476903' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event161551704476903
+Event is not in the city
+Event is not in the city
+trying with ider
+getting page events for 191177024795
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:46.480771) while time zone support is active.
+  RuntimeWarning)
+Fetched event1459123630977281
+trying with ider
+getting page events for 1490672994482775
+trying with HansySchmittCamacho
+getting page events for 1490672994482775
+trying with ider
+getting page events for 1366033740132948
+Fetched event259242754580642
+Event is not in the city
+Fetched event277299222750467
+Fetched event1333676390021460
+trying with ider
+getting page events for 316799015099466
+Fetched event1608973722550755
+Fetched event282179932317066
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'Hk435Jj7s2I', 'message': "Unsupported get request. Object with ID '1924158390950945' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'HmS3P8WUIeT', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:50 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'BXMjezBPKr2', 'message': "Unsupported get request. Object with ID '1924158390950945' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'AyC4y6r7GgJ', 'message': "Unsupported get request. Object with ID '1924158390950945' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event1924158390950945
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'DnBGb5HM9yJ', 'message': "Unsupported get request. Object with ID '232422307330489' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'BUyvYGAerE3', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:52 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'GX2/km/0GNX', 'message': "Unsupported get request. Object with ID '232422307330489' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'AQkl0QIZDAN', 'message': "Unsupported get request. Object with ID '232422307330489' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event232422307330489
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:53.393021) while time zone support is active.
+  RuntimeWarning)
+Fetched event2408765629390333
+Fetched event432557260519792
+Fetched event222739548472148
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'CCxCJkKrWPT', 'message': "Unsupported get request. Object with ID '153884728627670' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'DQsgyiUDL+Z', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:54 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'D9K7Oh+Egvc', 'message': "Unsupported get request. Object with ID '153884728627670' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'H0kM0ehnXrS', 'message': "Unsupported get request. Object with ID '153884728627670' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event153884728627670
+Fetched event175962373197802
+Fetched event1764438193578077
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:20:55.736963) while time zone support is active.
+  RuntimeWarning)
+Fetched event828982543977253
+Fetched event736487490073393
+Fetched event415927628855878
+Fetched event1795621187401539
+Fetched event567904816899996
+Fetched event427158571068049
+Fetched event155535551783338
+Fetched event153325895349932
+Fetched event955788401266553
+Fetched event605447696458550
+Fetched event166985477289365
+Fetched event143643086462165
+Fetched event173843550074394
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'H5yp4WOdOWr', 'message': "Unsupported get request. Object with ID '187142245380665' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'B/SvzDZpSdT', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:20:57 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'AUuqGkGvlA7', 'message': "Unsupported get request. Object with ID '187142245380665' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'C6b6x1y4jSg', 'message': "Unsupported get request. Object with ID '187142245380665' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event187142245380665
+Fetched event164891414308492
+trying with ider
+getting page events for 191488240877548
+trying with HansySchmittCamacho
+getting page events for 191488240877548
+trying with ider
+getting page events for 117956481565240
+Fetched event208637989693948
+Event is not in the city
+Event is not in the city
+Event is not in the city
+Event is not in the city
+trying with ider
+getting page events for 1860705017502786
+trying with HansySchmittCamacho
+getting page events for 1860705017502786
+trying with ider
+getting page events for 133237906720846
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'GeSA9IChagg', 'message': "Unsupported get request. Object with ID '195604890985059' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'Duhfo0TWfQm', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:21:02 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'CdGDpCLF1Dr', 'message': "Unsupported get request. Object with ID '195604890985059' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'GCooU4KaQC8', 'message': "Unsupported get request. Object with ID '195604890985059' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event195604890985059
+Fetched event623155538031204
+Fetched event390965974698929
+Fetched event417797088664909
+Fetched event2069652766656727
+Fetched event930882417070565
+Fetched event2018742148398750
+Fetched event187766695121095
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'ELcNVN6+vmB', 'message': "Unsupported get request. Object with ID '414144032334681' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'Eb8/ecgklY+', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:21:04 PDT.'}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'E4bNbQZbcAJ', 'message': "Unsupported get request. Object with ID '414144032334681' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'GGI7HCREg/m', 'message': "Unsupported get request. Object with ID '414144032334681' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+Fetched event414144032334681
+Fetched event1445283192233893
+Fetched event189791388262354
+Fetched event1303033836490918
+Fetched event624711257918702
+Fetched event300029750403413
+Fetched event1820629837951295
+Fetched event1467849253309658
+Fetched event1923448954561450
+Fetched event123413411617748
+Fetched event2020246821541162
+Fetched event115317259084364
+Fetched event1539109256139629
+Fetched event1846004112336829
+Fetched event1268129736609328
+Fetched event161072027642237
+/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py:1423: RuntimeWarning: DateTimeField Event.end_date received a naive datetime (2018-04-07 10:21:06.169425) while time zone support is active.
+  RuntimeWarning)
+Fetched event750098625124861
+trying with ider
+getting page events for 148673308525798
+trying with HansySchmittCamacho
+getting page events for 148673308525798
+trying with ider
+getting page events for 297986872274
+Event is not in the city
+trying with ider
+getting page events for 292780334633
+Error with user rnevent: UserSocialAuth matching query does not exist.
+Error with user
+UserSocialAuth matching query does not exist.
+Error with user
+400 Client Error: Bad Request for url: https://graph.facebook.com/v2.9/oauth/access_token
+{'error': {'error_subcode': 33, 'code': 100, 'type': 'GraphMethodException', 'fbtrace_id': 'DcY0Q1HAD9y', 'message': "Unsupported get request. Object with ID '333616377132418' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api"}}
+Error with user
+Error in request
+{'error': {'error_subcode': 463, 'code': 190, 'type': 'OAuthException', 'fbtrace_id': 'AXVYRszeeFR', 'message': 'Error validating access token: Session has expired on Tuesday, 06-Mar-18 09:00:00 PST. The current time is Saturday, 07-Apr-18 03:21:09 PDT.'}}
+Error with user
+Error in request
+^CTraceback (most recent call last):
+  File "manage.py", line 22, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/__init__.py", line 371, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/__init__.py", line 365, in execute
+    self.fetch_command(subcommand).run_from_argv(self.argv)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/base.py", line 288, in run_from_argv
+    self.execute(*args, **cmd_options)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/base.py", line 335, in execute
+    output = self.handle(*args, **options)
+  File "/home/alex/projects/rnevents-backend/ebackend/event/management/commands/fetchevents.py", line 40, in handle
+    self.get_page_events_with_users(event_pages, users)
+  File "/home/alex/projects/rnevents-backend/ebackend/event/management/commands/fetchevents.py", line 52, in get_page_events_with_users
+    self.parse_event(event)
+  File "/home/alex/projects/rnevents-backend/ebackend/event/management/commands/fetchevents.py", line 87, in parse_event
+    facebook_id=json_event.get('id'))
+  File "/usr/local/lib/python3.5/dist-packages/django/db/models/manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/db/models/query.py", line 510, in update_or_create
+    obj.save(using=self.db)
+  File "/home/alex/projects/rnevents-backend/ebackend/event/models.py", line 58, in save
+    self.fetch_attending()
+  File "/home/alex/projects/rnevents-backend/ebackend/event/models.py", line 74, in fetch_attending
+    self.facebook_id)
+  File "/home/alex/projects/rnevents-backend/ebackend/core/models.py", line 75, in get_attending_in_event
+    r = requests.get(url)
+  File "/usr/local/lib/python3.5/dist-packages/requests/api.py", line 72, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/requests/api.py", line 58, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/requests/adapters.py", line 440, in send
+    timeout=timeout
+  File "/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py", line 346, in _make_request
+    self._validate_conn(conn)
+  File "/usr/local/lib/python3.5/dist-packages/urllib3/connectionpool.py", line 850, in _validate_conn
+    conn.connect()
+  File "/usr/local/lib/python3.5/dist-packages/urllib3/connection.py", line 326, in connect
+    ssl_context=context)
+  File "/usr/local/lib/python3.5/dist-packages/urllib3/util/ssl_.py", line 329, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 385, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 760, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 996, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 641, in do_handshake
+    self._sslobj.do_handshake()
+KeyboardInterrupt
+

@@ -1,0 +1,26 @@
+<div class="container">
+    <div class="row d-flex justify-content-center mt-5">
+      <img class="rounded-circle" *ngIf="user.account.loggedIn" src="{{user.account.picture}}">
+      <i [hidden]="user.account.loggedIn" class="fas fa-user-circle fa-7x text-secondary"></i>
+    </div>
+    <div *ngIf="user.account.loggedIn" class="row d-flex justify-content-center mt-5">
+      <h3>{{user.account.name}}</h3>
+    </div>
+    <div class="row d-flex justify-content-center mt-3">
+      {{user.loggedIn}}
+      <button mat-button (click)="onLogin()">LOGIN</button>
+      <button mat-button (click)="onLogout()">LOGOUT</button>
+    </div>
+    <div class="row d-flex justify-content-center mt-3">
+      <a routerLink="/myevents">My events</a>
+    </div>
+    <div class="row d-flex justify-content-center mt-3">
+      <div class="col-12">
+        <div class="row mouse-pointer"
+        *ngFor="let category of cat.categories"
+        (click)="cat.choose(category.id)">
+        <i [class]="cat.isSelected(category.id) ? 'fas fa-star' : 'far fa-star'"></i> {{category.name}}
+        </div>
+      </div>
+    </div>
+  </div>
